@@ -1,2 +1,2 @@
 # delta
-Start of git and git-hub
+Start of git and git-hub.
